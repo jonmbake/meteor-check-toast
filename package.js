@@ -1,6 +1,6 @@
 Package.describe({
   name: 'jonmbake:check-toast',
-  version: '0.0.1',
+  version: '0.0.3',
   summary: 'Enhances the meteor check package by optionally toasting a success or error messages on the client.',
   git: 'https://github.com/jonmbake/meteor-check-toast',
   documentation: 'README.md'
